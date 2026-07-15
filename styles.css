@@ -1,0 +1,15 @@
+main {
+    background-color: rgb(187, 141, 67);
+}
+.d1,d2,d3,d4 {
+    display: inline-block;
+    display: flex;
+}
+body{
+    background-color: #000000;
+    margin: 0%;
+}
+footer {
+    background-color: rgb(0, 0, 0);
+    caret-color: rgb(255, 255, 255);
+}
