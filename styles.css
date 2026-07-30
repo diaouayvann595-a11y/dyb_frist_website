@@ -1,15 +1,29 @@
 main {
-    background-color: rgb(187, 141, 67);
+    background-color: #1c1b18;
 }
-.d1,d2,d3,d4 {
-    display: inline-block;
-    display: flex;
-}
+
 body{
-    background-color: #000000;
-    margin: 0%;
+    background-color: #1c1b18;
+color: rgb(187, 141, 67);
+  margin: 0;
+  font-family: 'Work Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-weight: 800;
 }
 footer {
-    background-color: rgb(0, 0, 0);
-    caret-color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+
+}
+.btn-primary {
+  background-color: #e85d2c;
+  border-color: #e85d2c;
+}
+
+.btn-primary:hover {
+  background-color: #f2b705;
+  border-color: #f2b705;
+  color: #1c1b18;
 }
